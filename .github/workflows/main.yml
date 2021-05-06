@@ -11,10 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Test microservice
-        run: |
-          ./test.sh
       
       # Setting up Docker Builder
       - name: Set up Docker Builder
