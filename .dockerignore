@@ -1,5 +1,7 @@
+build/
 node_modules/
 .devcontainer/
+.github/
 .dockerignore
 .gitignore
 Dockerfile
