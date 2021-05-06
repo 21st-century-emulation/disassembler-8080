@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/disassembler-8080/static/css/main.72c01c60.chunk.css",
+    "main.js": "/disassembler-8080/static/js/main.30bc80c1.chunk.js",
+    "main.js.map": "/disassembler-8080/static/js/main.30bc80c1.chunk.js.map",
+    "runtime-main.js": "/disassembler-8080/static/js/runtime-main.78596030.js",
+    "runtime-main.js.map": "/disassembler-8080/static/js/runtime-main.78596030.js.map",
+    "static/css/2.150d169a.chunk.css": "/disassembler-8080/static/css/2.150d169a.chunk.css",
+    "static/js/2.7a193a23.chunk.js": "/disassembler-8080/static/js/2.7a193a23.chunk.js",
+    "static/js/2.7a193a23.chunk.js.map": "/disassembler-8080/static/js/2.7a193a23.chunk.js.map",
+    "index.html": "/disassembler-8080/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/disassembler-8080/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.72c01c60.chunk.css.map": "/disassembler-8080/static/css/main.72c01c60.chunk.css.map",
+    "static/js/2.7a193a23.chunk.js.LICENSE.txt": "/disassembler-8080/static/js/2.7a193a23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78596030.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7a193a23.chunk.js",
+    "static/css/main.72c01c60.chunk.css",
+    "static/js/main.30bc80c1.chunk.js"
+  ]
+}
